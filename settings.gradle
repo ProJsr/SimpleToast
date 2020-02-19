@@ -1,0 +1,2 @@
+include ':app', ':simpletoast'
+rootProject.name='MyApp'
