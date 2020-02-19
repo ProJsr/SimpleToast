@@ -1,5 +1,4 @@
 # SimpleToast
-Initial commit
 
 
 allprojects {
