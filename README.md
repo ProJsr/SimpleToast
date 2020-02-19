@@ -11,8 +11,7 @@ allprojects {
 
 
 	dependencies {
-	        implementation 'com.github.ProJsr:SimpleToast:Tag'
+	        implementation 'com.github.ProJsr:SimpleToast:1.0'
 	}
-Latest commit
-7ea0eed
+
 
